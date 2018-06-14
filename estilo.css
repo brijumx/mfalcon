@@ -1,0 +1,30 @@
+section{background-color: gray;
+		margin: 5px;
+		padding: 5px;}
+
+article {
+	background-color: lime;
+	width: 300px;
+	height: 100px;
+	margin: 5px;
+	padding: 5px;
+
+}
+
+/*#a2 {float: right;}
+#a3 {clear: both;}*/
+
+/*#s1 article {float: right;}
+#s1 {float: right;}*/
+
+/*#s1 article {float: right;}
+#s1 {float: right;}
+#s2 {clear: both;}
+#s2 article {float: right;}
+#s2 {float: right;}*/
+
+#s1 article {float: right;}
+#s2 article {float: right;}
+#s1 {overflow: hidden;}
+#s2 {overflow: hidden;}
+
