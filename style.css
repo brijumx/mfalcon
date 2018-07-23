@@ -17,8 +17,8 @@
 
 
 body{
-	/*background-color: rgba(229,229,229);*/
-		background-color: white;
+	background-color: rgba(231,245,250);
+		/* background-color: white;*/
 }
 
 h1, h2, h3, h4, h5, h6{
@@ -34,6 +34,7 @@ p{
 	font-family: 'Ubuntu', sans-serif;
 	text-align: center;
 }
+
 
 .menu
 {
@@ -52,7 +53,7 @@ p{
 
 .menu a
 {
-	background: url(iconos.png) no-repeat left top;
+	background: url(iconos4.png) no-repeat left top;
 	color: rgba(0,0,0);
 		display: block;
 	padding-left: 3em;
@@ -102,4 +103,9 @@ transition: all .5s;
 .menu li:nth-child(3) a
 {
 	background-position: 0 -84px;
+}
+
+.menu li:nth-child(4) a
+{
+	background-position: 0 -126px;
 }
